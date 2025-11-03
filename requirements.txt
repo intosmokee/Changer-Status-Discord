@@ -1,0 +1,5 @@
+pip install requests
+pip install time
+pip install os
+
+Python 3.13
